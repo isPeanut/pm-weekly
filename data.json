@@ -1,0 +1,113 @@
+{
+  "cycle": { "label": "11月 W1", "start": "2026-11-05", "end": "2026-11-11" },
+  "generated_at": "2026-11-12 19:57",
+  "asof": "2026-11-12",
+  "buffer_minutes": 60,
+  "totals": {
+    "sp_cycle": 0.0,
+    "sp28": 49.0,
+    "pending_sp": 389.0,
+    "pending_n": 25,
+    "g_done": 12,
+    "g_late": 0,
+    "g_rate": 0.0,
+    "p_done": 86,
+    "p_late": 0,
+    "p_rate": 0.0
+  },
+  "people": [
+    {
+      "name": "丁敬洋",
+      "sp_cycle": 0.0,
+      "sp28": 0,
+      "pending_sp": 204.0,
+      "pending_n": 13,
+      "g_done": 5,
+      "g_late": 0,
+      "g_rate": 0.0,
+      "p_done": 21,
+      "p_late": 0,
+      "p_rate": 0.0,
+      "recent": "10-14「基础环境底板」4 SP",
+      "projects": [
+        { "name": "山东电子-无人机项目", "roi": 294.0, "eff": 0.8, "sp": 183.0, "cost_h": 1939.0 },
+        { "name": "羊口光伏智慧数字孪生平台", "roi": -11.0, "eff": 0.2, "sp": 25.0, "cost_h": 1181.0 },
+        { "name": "汶阳田灌区支撑平台", "roi": 37.0, "eff": 0.3, "sp": 20.0, "cost_h": 614.0 }
+      ]
+    },
+    {
+      "name": "王立杰",
+      "sp_cycle": 0.0,
+      "sp28": 19.0,
+      "pending_sp": 60.0,
+      "pending_n": 3,
+      "g_done": 2,
+      "g_late": 0,
+      "g_rate": 0.0,
+      "p_done": 20,
+      "p_late": 0,
+      "p_rate": 0.0,
+      "recent": "10-28「管理端」5 SP",
+      "projects": [
+        { "name": "智慧监造单机版", "roi": 42.0, "eff": 0.3, "sp": 3.0, "cost_h": 90.0 },
+        { "name": "材料检测虚拟仿真", "roi": -24.0, "eff": 0.1, "sp": 13.0, "cost_h": 711.5 },
+        { "name": "需求管理", "roi": 184.0, "eff": 0.5, "sp": 18.0, "cost_h": 268.0 },
+        { "name": "竞价辅助工具", "roi": 92.0, "eff": 0.4, "sp": 82.0, "cost_h": 1778.0 }
+      ]
+    },
+    {
+      "name": "林子涵",
+      "sp_cycle": 0.0,
+      "sp28": 0,
+      "pending_sp": 0,
+      "pending_n": 0,
+      "g_done": 2,
+      "g_late": 0,
+      "g_rate": 0.0,
+      "p_done": 17,
+      "p_late": 0,
+      "p_rate": 0.0,
+      "recent": "07-30「智谱模型新增和功能迭代」1 SP",
+      "projects": [
+        { "name": "GEO", "roi": 2.0, "eff": 0.2, "sp": 24.0, "cost_h": 985.0 }
+      ]
+    },
+    {
+      "name": "翁晓茹",
+      "sp_cycle": 0.0,
+      "sp28": 0,
+      "pending_sp": 0,
+      "pending_n": 0,
+      "g_done": 2,
+      "g_late": 0,
+      "g_rate": 0.0,
+      "p_done": 14,
+      "p_late": 0,
+      "p_rate": 0.0,
+      "recent": "09-14「模型管理」5 SP",
+      "projects": [
+        { "name": "Token中转站", "roi": 80.0, "eff": 0.3, "sp": 28.0, "cost_h": 653.0 },
+        { "name": "OA", "roi": 130.0, "eff": 0.4, "sp": 19.0, "cost_h": 345.0 }
+      ]
+    },
+    {
+      "name": "孔岚平",
+      "sp_cycle": 0.0,
+      "sp28": 30.0,
+      "pending_sp": 125.0,
+      "pending_n": 9,
+      "g_done": 1,
+      "g_late": 0,
+      "g_rate": 0.0,
+      "p_done": 14,
+      "p_late": 0,
+      "p_rate": 0.0,
+      "recent": "10-20「沙盘主体设计与搭建系统底座」30 SP",
+      "projects": [
+        { "name": "水库沙盘孪生", "roi": 2.0, "eff": 0.2, "sp": 30.0, "cost_h": 1231.0 },
+        { "name": "会议纪要", "roi": 63.0, "eff": 0.3, "sp": 38.0, "cost_h": 970.0 }
+      ]
+    }
+  ],
+  "latest_summary": "丁敬洋 10-14「基础环境底板」4 SP；王立杰 10-28「管理端」5 SP；林子涵 07-30「智谱模型新增和功能迭代」1 SP；翁晓茹 09-14「模型管理」5 SP；孔岚平 10-20「沙盘主体设计与搭建系统底座」30 SP"
+}
